@@ -1,2 +1,3 @@
 # JavaScript
- Study and development in JavaScrip
+
+Study and development in `JavaScrip`
